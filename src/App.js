@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import './styles/App.css';
 import akshay from './assets/akshay-kumar.gif';
-import twitterLogo from './assets/twitter-logo.svg';
+import twitterLogo from './assets/twitter.png';
 import { ethers } from "ethers";
 import contractAbi from './utils/contractABI.json';
 import polygonLogo from './assets/polygonlogo.png';
