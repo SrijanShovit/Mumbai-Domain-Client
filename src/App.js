@@ -9,7 +9,7 @@ import ethLogo from './assets/ethlogo.png';
 import { networks } from "./utils/networks";
 
 // Constants
-const TWITTER_HANDLE = '_buildspace';
+const TWITTER_HANDLE = 'ShovitSrijan';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 const tld = '.shovit';
 const CONTRACT_ADDRESS = '0x377F9501f283067dC8774405B452655Ac15865E8';
@@ -336,7 +336,7 @@ const App = () => {
 				<div className="header-container">
 					<header>
 						<div className="left">
-							<p className="title">🐱‍👤 Ninja Name Service</p>
+							<p className="title">👨‍💻 Shovit Web Name Service</p>
 							<p className="subtitle">Your immortal endpoint on-chain!!</p>
 						</div>
 						<div className="right">
@@ -359,7 +359,7 @@ const App = () => {
 						href={TWITTER_LINK}
 						target="_blank"
 						rel="noreferrer"
-					>{`built with @${TWITTER_HANDLE}`}</a>
+					>{`built with ❤️ by @${TWITTER_HANDLE}`}</a>
 				</div>
 			</div>
 		</div>
